@@ -6,7 +6,8 @@
     $dbhost = "localhost";
     $dbuser = "root";
     $dbpass = "root";
-    $dbname = "";
+    $dbname = "dataname";
+    
 
 ## Example cURL commands
     // Create a user
