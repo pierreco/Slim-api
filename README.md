@@ -2,6 +2,7 @@
     Authorization: Basic
 
 ## Configure database
+<p>Copy schema.sql on your database and configure:</p>
     $dbhost = "localhost";
     $dbuser = "root";
     $dbpass = "root";
